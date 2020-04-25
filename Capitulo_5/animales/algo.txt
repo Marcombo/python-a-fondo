@@ -1,0 +1,9 @@
+animales
+├── invertebrados
+│   ├── artropodos.py
+│   └── gusanos.py
+└── vertebrados
+    ├── mamiferos.py
+    └── peces.py
+
+2 directories, 5 files
