@@ -1,0 +1,6 @@
+AmigosNombre          Salario
+    34  Manuel Ortega   90234
+  3452    Juan Martin   17232
+   256     Ana Pastor   45324
+  7345  Pedro Sanchez   90643
+  2163Maria Fernandez   23419
