@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Mercurio",
+    "masa": 3.303e+23,
+    "radio": 2439700
+  },
+  {
+    "nombre": "Venus",
+    "masa": 4.869e+24,
+    "radio": 6051000
+  },
+  {
+    "nombre": "Tierra",
+    "masa": 5.976e+24,
+    "radio": 6378140
+  },
+  {
+    "nombre": "Marte",
+    "masa": 6.421e+23,
+    "radio": 3397000
+  },
+  {
+    "nombre": "Jupiter",
+    "masa": 1.9e+27,
+    "radio": 71492000
+  },
+  {
+    "nombre": "Saturno",
+    "masa": 5.688e+26,
+    "radio": 60268000
+  },
+  {
+    "nombre": "Urano",
+    "masa": 8.686e+25,
+    "radio": 25559000
+  },
+  {
+    "nombre": "Neptuno",
+    "masa": 1.024e+26,
+    "radio": 24746000
+  }
+]

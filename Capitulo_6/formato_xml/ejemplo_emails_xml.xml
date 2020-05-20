@@ -1,0 +1,22 @@
+<correo>
+    <email>
+        <remitente nombre="Oscar Ramirez">
+            <direccion>
+                yo@example.com
+            </direccion>
+        </remitente>
+        <destinatario nombre="Pepe Lopez">
+            <direccion>
+                pepe@example.com
+            </direccion>
+        </destinatario>
+        <cuerpo>
+            <titulo>
+                Algo importante que contar
+            </titulo>
+            <mensaje>
+                Un ejemplo de email a enviar
+            </mensaje>
+        </cuerpo>
+    </email>
+</correo>

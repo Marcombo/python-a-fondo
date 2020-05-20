@@ -1,0 +1,45 @@
+- !Planeta
+  masa: 3.303e+23
+  nombre: Mercurio
+  radio: 2439700.0
+- !Planeta
+  masa: 4.869e+24
+  nombre: Venus
+  radio: 6051000.0
+- !Planeta
+  masa: 5.976e+24
+  nombre: Tierra
+  radio: 6378140.0
+- !Planeta
+  masa: 6.421e+23
+  nombre: Marte
+  radio: 3397000.0
+- !Planeta
+  masa: 1.9e+27
+  nombre: Jupiter
+  radio: 71492000.0
+- !Planeta
+  masa: 5.688e+26
+  nombre: Saturno
+  radio: 60268000.0
+- !Planeta
+  masa: 8.686e+25
+  nombre: Urano
+  radio: 25559000.0
+- !Planeta
+  masa: 1.024e+26
+  nombre: Neptuno
+  radio: 24746000.0
+688e+26
+  nombre: Saturno
+  radio: 60268000.0
+- !Planeta
+  gravedad: 8.8726476241638
+  masa: 8.686e+25
+  nombre: Urano
+  radio: 25559000.0
+- !Planeta
+  gravedad: 11.158634802412358
+  masa: 1.024e+26
+  nombre: Neptuno
+  radio: 24746000.0

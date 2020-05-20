@@ -1,0 +1,34 @@
+<sistemasolar>
+    <planeta nombre="Mercurio">
+        <masa>3.303e23</masa>
+        <radio unidad="km">2.4397e6</radio>
+    </planeta>
+    <planeta nombre="Venus">
+        <masa>4.869e+24</masa>
+        <radio unidad="km">6.051e6</radio>
+    </planeta>
+    <planeta nombre="Tierra">
+        <masa>5.976e+24</masa>
+        <radio unidad="km">6.37814e6</radio>
+    </planeta>
+    <planeta nombre="Marte">
+        <masa>6.421e+23</masa>
+        <radio unidad="km">3.397e6</radio>
+    </planeta>
+    <planeta nombre="Jupiter">
+        <masa>1.9e+27</masa>
+        <radio unidad="km">7.1492e7</radio>
+    </planeta>
+    <planeta nombre="Saturno">
+        <masa>5.688e+26</masa>
+        <radio unidad="km">6.0268e7</radio>
+    </planeta>
+    <planeta nombre="Urano">
+        <masa>8.686e+25</masa>
+        <radio unidad="km">2.5559e7</radio>
+    </planeta>
+    <planeta nombre="Neptuno">
+        <masa>1.024e+26</masa>
+        <radio unidad="km">2.4746e7</radio>
+    </planeta>
+</sistemasolar>
