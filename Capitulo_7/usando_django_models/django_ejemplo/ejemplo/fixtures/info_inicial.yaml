@@ -1,0 +1,64 @@
+- model: ejemplo.perfil
+  pk: 1
+  fields:
+    nombre: 'Admin'
+    puede_editar: True
+- model: ejemplo.perfil
+  pk: 2
+  fields:
+    nombre: 'Editor'
+    puede_editar: True
+- model: ejemplo.perfil
+  pk: 3
+  fields:
+    nombre: 'Visitante'
+    puede_editar: False
+- model: ejemplo.usuario
+  pk: 1
+  fields:
+    nombre: 'Paco'
+    apellido: 'Lopez'
+    f_nacimiento: '1998-08-03'
+    perfil: 2
+- model: ejemplo.usuario
+  pk: 2
+  fields:
+    nombre: 'Maria'
+    apellido: 'Gomez'
+    f_nacimiento: '1982-10-28'
+    perfil: 1
+- model: ejemplo.usuario
+  pk: 3
+  fields:
+    nombre: 'Antonio'
+    apellido: 'Lopez'
+    f_nacimiento: '1967-02-21'
+    perfil: 2
+- model: ejemplo.post
+  pk: 1
+  fields:
+    texto: 'Mi primera entrada'
+    fecha: '2020-10-28'
+    likes: 4
+    autor: 1
+- model: ejemplo.post
+  pk: 2
+  fields:
+    texto: 'Mi segunda entrada'
+    fecha: '2020-11-09'
+    likes: 1
+    autor: 1
+- model: ejemplo.post
+  pk: 3
+  fields:
+    texto: '¿Como hacer ejercicio?'
+    fecha: '2020-09-08'
+    likes: 40
+    autor: 2
+- model: ejemplo.post
+  pk: 4
+  fields:
+    texto: 'Dietas saludables'
+    fecha: '2020-07-19'
+    likes: 15
+    autor: 3
