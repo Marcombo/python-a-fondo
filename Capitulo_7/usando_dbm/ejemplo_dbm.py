@@ -20,6 +20,6 @@ def imprime_db(nombre_db):
 
 
 if __name__ == '__main__':
-nombre_db = 'dbm_db'
-escribe_db(nombre_db)
-imprime_db(nombre_db)
+    nombre_db = 'dbm_db'
+    escribe_db(nombre_db)
+    imprime_db(nombre_db)
