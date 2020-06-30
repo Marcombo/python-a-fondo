@@ -8,7 +8,7 @@ if __name__ == '__main__':
     print(ftp.cwd('pub/ubuntu-releases/focal'))
     print(ftp.nlst())
     print(ftp.size('ubuntu-20.04-desktop-amd64.iso'))
-    with open('ftpquntu_focal_MD5SUMS', 'wb') as fp:
+    with open('ftp_ubuntu_focal_MD5SUMS', 'wb') as fp:
         ftp.retrbinary('RETR MD5SUMS', fp.write)
 
     ftp.quit()
