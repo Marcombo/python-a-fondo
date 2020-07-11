@@ -1,5 +1,5 @@
 """
-ASGI config for ejemplo_django_blog project.
+ASGI config for django_a_fondo project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ejemplo_django_blog.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_a_fondo.settings')
 
 application = get_asgi_application()
