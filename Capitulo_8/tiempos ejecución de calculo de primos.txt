@@ -1,0 +1,521 @@
+python calculo_de_primos.py
+2020-07-18 11:53:39,275 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:53:41,430 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:53:41,430 - INFO - Secuencial - 1 iter: 2.155s
+2020-07-18 11:53:41,580 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:53:43,835 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:53:43,840 - INFO - Multi_proc - 1 iter, 4 procesos: 2.41s
+2020-07-18 11:53:44,016 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:53:46,094 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:53:46,100 - INFO - Multi_proc - 1 iter, 8 procesos: 2.26s
+2020-07-18 11:53:46,366 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:53:48,458 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:53:48,498 - INFO - Multi_proc - 1 iter, 16 procesos: 2.397s
+2020-07-18 11:53:48,695 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:53:50,911 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:53:50,955 - INFO - Multi_proc - 1 iter, 20 procesos: 2.457s
+2020-07-18 11:53:50,955 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:53:53,024 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:53:53,024 - INFO - Threading - 1 iter: 2.069s
+2020-07-18 11:53:53,025 - DEBUG - Comienzo de ejecución de 0 async
+2020-07-18 11:53:55,075 - DEBUG - Fin de ejecución de 0 async
+2020-07-18 11:53:55,076 - INFO - Asyncio - 1 iter: 2.052s
+2020-07-18 11:53:55,076 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:53:57,149 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:53:57,150 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:53:59,250 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:53:59,250 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:01,355 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:01,356 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:03,462 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:03,462 - INFO - Secuencial - 4 iter: 8.386s
+2020-07-18 11:54:03,566 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:03,567 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:03,570 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:03,570 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:05,757 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:54:05,776 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:54:05,782 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:05,792 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:05,798 - INFO - Multi_proc - 4 iter, 4 procesos: 2.335s
+2020-07-18 11:54:05,961 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:05,965 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:05,971 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:05,975 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:08,220 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:08,241 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:08,248 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:54:08,259 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:54:08,268 - INFO - Multi_proc - 4 iter, 8 procesos: 2.47s
+2020-07-18 11:54:08,536 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:08,542 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:08,546 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:08,557 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:10,844 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:54:10,870 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:54:10,873 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:10,898 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:10,936 - INFO - Multi_proc - 4 iter, 16 procesos: 2.667s
+2020-07-18 11:54:11,359 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:11,364 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:11,365 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:11,366 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:13,631 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:13,655 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:54:13,660 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:13,670 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:54:13,717 - INFO - Multi_proc - 4 iter, 20 procesos: 2.781s
+2020-07-18 11:54:13,717 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:13,735 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:13,753 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:13,770 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:21,656 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:21,851 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:54:21,857 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:54:21,865 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:21,866 - INFO - Threading - 4 iter: 8.149s
+2020-07-18 11:54:21,866 - DEBUG - Comienzo de ejecución de 0 async
+2020-07-18 11:54:23,917 - DEBUG - Fin de ejecución de 0 async
+2020-07-18 11:54:23,917 - DEBUG - Comienzo de ejecución de 1 async
+2020-07-18 11:54:25,957 - DEBUG - Fin de ejecución de 1 async
+2020-07-18 11:54:25,958 - DEBUG - Comienzo de ejecución de 2 async
+2020-07-18 11:54:28,013 - DEBUG - Fin de ejecución de 2 async
+2020-07-18 11:54:28,013 - DEBUG - Comienzo de ejecución de 3 async
+2020-07-18 11:54:30,055 - DEBUG - Fin de ejecución de 3 async
+2020-07-18 11:54:30,056 - INFO - Asyncio - 4 iter: 8.19s
+2020-07-18 11:54:30,056 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:32,143 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:54:32,143 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:34,247 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:54:34,247 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:36,322 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:36,322 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:38,401 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:38,401 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:54:40,635 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:54:40,635 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:54:42,783 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:54:42,783 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:54:44,876 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:54:44,876 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:54:46,970 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:54:46,970 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:54:49,062 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:54:49,062 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:54:51,143 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:54:51,143 - INFO - Secuencial - 10 iter: 21.09s
+2020-07-18 11:54:51,251 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:51,251 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:51,252 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:51,255 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:53,523 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:54:53,524 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:54:53,525 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:54:53,525 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:54:53,551 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:54:53,551 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:54:53,561 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:54:53,562 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:54:55,718 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:54:55,718 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:54:55,725 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:54:55,726 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:54:55,752 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:54:55,772 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:54:57,789 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:54:57,793 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:54:57,799 - INFO - Multi_proc - 10 iter, 4 procesos: 6.655s
+2020-07-18 11:54:57,962 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:54:57,963 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:54:57,966 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:54:57,970 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:54:57,972 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:54:57,977 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:54:57,982 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:54:57,983 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:55:03,262 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:55:03,262 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:55:03,342 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:55:03,344 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:55:03,355 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:55:03,366 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:55:03,371 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:55:03,377 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:55:03,380 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:55:03,399 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:55:05,413 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:55:05,443 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:55:05,451 - INFO - Multi_proc - 10 iter, 8 procesos: 7.652s
+2020-07-18 11:55:05,745 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:55:05,761 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:55:05,762 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:55:05,773 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:55:05,773 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:55:05,784 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:55:05,795 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:55:05,815 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:55:05,817 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:55:05,834 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:55:12,346 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:55:12,365 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:55:12,374 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:55:12,380 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:55:12,384 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:55:12,388 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:55:12,390 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:55:12,391 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:55:12,398 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:55:12,405 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:55:12,443 - INFO - Multi_proc - 10 iter, 16 procesos: 6.992s
+2020-07-18 11:55:12,874 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:55:12,883 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:55:12,883 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:55:12,888 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:55:12,891 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:55:12,891 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:55:12,893 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:55:12,893 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:55:12,894 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:55:12,895 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:55:19,812 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:55:19,815 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:55:19,818 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:55:19,819 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:55:19,820 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:55:19,822 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:55:19,823 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:55:19,825 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:55:19,826 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:55:19,851 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:55:19,902 - INFO - Multi_proc - 10 iter, 20 procesos: 7.459s
+2020-07-18 11:55:19,903 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:55:19,921 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:55:19,940 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:55:19,959 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:55:19,978 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:55:19,997 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:55:20,049 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:55:20,132 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:55:20,269 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:55:20,358 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:55:38,453 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:55:39,429 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:55:39,855 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:55:40,047 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:55:40,115 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:55:40,325 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:55:40,355 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:55:40,440 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:55:40,461 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:55:40,527 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:55:40,527 - INFO - Threading - 10 iter: 20.62s
+2020-07-18 11:55:40,528 - DEBUG - Comienzo de ejecución de 0 async
+2020-07-18 11:55:42,767 - DEBUG - Fin de ejecución de 0 async
+2020-07-18 11:55:42,768 - DEBUG - Comienzo de ejecución de 1 async
+2020-07-18 11:55:45,082 - DEBUG - Fin de ejecución de 1 async
+2020-07-18 11:55:45,082 - DEBUG - Comienzo de ejecución de 2 async
+2020-07-18 11:55:47,211 - DEBUG - Fin de ejecución de 2 async
+2020-07-18 11:55:47,211 - DEBUG - Comienzo de ejecución de 3 async
+2020-07-18 11:55:49,358 - DEBUG - Fin de ejecución de 3 async
+2020-07-18 11:55:49,358 - DEBUG - Comienzo de ejecución de 4 async
+2020-07-18 11:55:51,473 - DEBUG - Fin de ejecución de 4 async
+2020-07-18 11:55:51,473 - DEBUG - Comienzo de ejecución de 5 async
+2020-07-18 11:55:53,671 - DEBUG - Fin de ejecución de 5 async
+2020-07-18 11:55:53,671 - DEBUG - Comienzo de ejecución de 6 async
+2020-07-18 11:55:56,589 - DEBUG - Fin de ejecución de 6 async
+2020-07-18 11:55:56,589 - DEBUG - Comienzo de ejecución de 7 async
+2020-07-18 11:55:58,803 - DEBUG - Fin de ejecución de 7 async
+2020-07-18 11:55:58,803 - DEBUG - Comienzo de ejecución de 8 async
+2020-07-18 11:56:01,027 - DEBUG - Fin de ejecución de 8 async
+2020-07-18 11:56:01,027 - DEBUG - Comienzo de ejecución de 9 async
+2020-07-18 11:56:03,294 - DEBUG - Fin de ejecución de 9 async
+2020-07-18 11:56:03,296 - INFO - Asyncio - 10 iter: 22.77s
+2020-07-18 11:56:03,296 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:56:05,514 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:56:05,514 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:56:07,747 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:56:07,747 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:56:09,926 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:56:09,926 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:56:12,090 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:56:12,090 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:56:14,223 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:56:14,223 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:56:16,373 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:56:16,373 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:56:18,506 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:56:18,506 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:56:20,632 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:56:20,632 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:56:22,728 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:56:22,728 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:56:24,813 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:56:24,813 - DEBUG - Comienzo de ejecución de 10
+2020-07-18 11:56:26,906 - DEBUG - Fin de ejecución de 10
+2020-07-18 11:56:26,906 - DEBUG - Comienzo de ejecución de 11
+2020-07-18 11:56:29,014 - DEBUG - Fin de ejecución de 11
+2020-07-18 11:56:29,015 - DEBUG - Comienzo de ejecución de 12
+2020-07-18 11:56:31,087 - DEBUG - Fin de ejecución de 12
+2020-07-18 11:56:31,087 - DEBUG - Comienzo de ejecución de 13
+2020-07-18 11:56:33,181 - DEBUG - Fin de ejecución de 13
+2020-07-18 11:56:33,181 - DEBUG - Comienzo de ejecución de 14
+2020-07-18 11:56:35,252 - DEBUG - Fin de ejecución de 14
+2020-07-18 11:56:35,252 - DEBUG - Comienzo de ejecución de 15
+2020-07-18 11:56:37,317 - DEBUG - Fin de ejecución de 15
+2020-07-18 11:56:37,318 - DEBUG - Comienzo de ejecución de 16
+2020-07-18 11:56:39,394 - DEBUG - Fin de ejecución de 16
+2020-07-18 11:56:39,394 - DEBUG - Comienzo de ejecución de 17
+2020-07-18 11:56:41,476 - DEBUG - Fin de ejecución de 17
+2020-07-18 11:56:41,476 - DEBUG - Comienzo de ejecución de 18
+2020-07-18 11:56:43,555 - DEBUG - Fin de ejecución de 18
+2020-07-18 11:56:43,556 - DEBUG - Comienzo de ejecución de 19
+2020-07-18 11:56:45,621 - DEBUG - Fin de ejecución de 19
+2020-07-18 11:56:45,621 - INFO - Secuencial - 20 iter: 42.33s
+2020-07-18 11:56:45,807 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:56:45,807 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:56:45,807 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:56:45,807 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:56:48,068 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:56:48,068 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:56:48,071 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:56:48,071 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:56:48,101 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:56:48,102 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:56:48,109 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:56:48,109 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:56:50,343 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:56:50,343 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:56:50,345 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:56:50,345 - DEBUG - Comienzo de ejecución de 10
+2020-07-18 11:56:50,373 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:56:50,374 - DEBUG - Comienzo de ejecución de 12
+2020-07-18 11:56:50,384 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:56:50,385 - DEBUG - Comienzo de ejecución de 14
+2020-07-18 11:56:52,685 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:56:52,686 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:56:52,691 - DEBUG - Fin de ejecución de 10
+2020-07-18 11:56:52,691 - DEBUG - Comienzo de ejecución de 11
+2020-07-18 11:56:52,719 - DEBUG - Fin de ejecución de 12
+2020-07-18 11:56:52,719 - DEBUG - Comienzo de ejecución de 13
+2020-07-18 11:56:52,741 - DEBUG - Fin de ejecución de 14
+2020-07-18 11:56:52,741 - DEBUG - Comienzo de ejecución de 15
+2020-07-18 11:56:55,004 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:56:55,005 - DEBUG - Comienzo de ejecución de 16
+2020-07-18 11:56:55,047 - DEBUG - Fin de ejecución de 11
+2020-07-18 11:56:55,047 - DEBUG - Comienzo de ejecución de 18
+2020-07-18 11:56:55,063 - DEBUG - Fin de ejecución de 13
+2020-07-18 11:56:55,078 - DEBUG - Fin de ejecución de 15
+2020-07-18 11:56:57,104 - DEBUG - Fin de ejecución de 16
+2020-07-18 11:56:57,104 - DEBUG - Comienzo de ejecución de 17
+2020-07-18 11:56:57,142 - DEBUG - Fin de ejecución de 18
+2020-07-18 11:56:57,143 - DEBUG - Comienzo de ejecución de 19
+2020-07-18 11:56:59,260 - DEBUG - Fin de ejecución de 17
+2020-07-18 11:56:59,303 - DEBUG - Fin de ejecución de 19
+2020-07-18 11:56:59,309 - INFO - Multi_proc - 20 iter, 4 procesos: 13.69s
+2020-07-18 11:56:59,503 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:56:59,510 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:56:59,513 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:56:59,523 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:56:59,532 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:56:59,538 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:56:59,543 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:56:59,546 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:57:05,459 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:57:05,460 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:57:05,505 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:57:05,506 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:57:05,510 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:57:05,510 - DEBUG - Comienzo de ejecución de 10
+2020-07-18 11:57:05,544 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:57:05,544 - DEBUG - Comienzo de ejecución de 11
+2020-07-18 11:57:05,553 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:57:05,554 - DEBUG - Comienzo de ejecución de 12
+2020-07-18 11:57:05,566 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:57:05,567 - DEBUG - Comienzo de ejecución de 13
+2020-07-18 11:57:05,576 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:57:05,576 - DEBUG - Comienzo de ejecución de 14
+2020-07-18 11:57:05,688 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:57:05,689 - DEBUG - Comienzo de ejecución de 15
+2020-07-18 11:57:11,014 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:57:11,015 - DEBUG - Comienzo de ejecución de 16
+2020-07-18 11:57:11,022 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:57:11,022 - DEBUG - Comienzo de ejecución de 17
+2020-07-18 11:57:11,041 - DEBUG - Fin de ejecución de 10
+2020-07-18 11:57:11,042 - DEBUG - Comienzo de ejecución de 18
+2020-07-18 11:57:11,070 - DEBUG - Fin de ejecución de 12
+2020-07-18 11:57:11,070 - DEBUG - Comienzo de ejecución de 19
+2020-07-18 11:57:11,076 - DEBUG - Fin de ejecución de 13
+2020-07-18 11:57:11,094 - DEBUG - Fin de ejecución de 11
+2020-07-18 11:57:11,096 - DEBUG - Fin de ejecución de 14
+2020-07-18 11:57:11,212 - DEBUG - Fin de ejecución de 15
+2020-07-18 11:57:13,338 - DEBUG - Fin de ejecución de 17
+2020-07-18 11:57:13,339 - DEBUG - Fin de ejecución de 16
+2020-07-18 11:57:13,346 - DEBUG - Fin de ejecución de 18
+2020-07-18 11:57:13,379 - DEBUG - Fin de ejecución de 19
+2020-07-18 11:57:13,388 - INFO - Multi_proc - 20 iter, 8 procesos: 14.08s
+2020-07-18 11:57:13,672 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:57:13,676 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:57:13,679 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:57:13,681 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:57:13,694 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:57:13,696 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:57:13,706 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:57:13,721 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:57:13,734 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:57:13,781 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:57:13,791 - DEBUG - Comienzo de ejecución de 10
+2020-07-18 11:57:13,801 - DEBUG - Comienzo de ejecución de 11
+2020-07-18 11:57:13,807 - DEBUG - Comienzo de ejecución de 12
+2020-07-18 11:57:13,840 - DEBUG - Comienzo de ejecución de 13
+2020-07-18 11:57:13,851 - DEBUG - Comienzo de ejecución de 14
+2020-07-18 11:57:13,851 - DEBUG - Comienzo de ejecución de 15
+2020-07-18 11:57:24,302 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:57:24,303 - DEBUG - Comienzo de ejecución de 16
+2020-07-18 11:57:24,313 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:57:24,314 - DEBUG - Comienzo de ejecución de 17
+2020-07-18 11:57:24,316 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:57:24,316 - DEBUG - Comienzo de ejecución de 18
+2020-07-18 11:57:24,318 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:57:24,319 - DEBUG - Comienzo de ejecución de 19
+2020-07-18 11:57:24,324 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:57:24,343 - DEBUG - Fin de ejecución de 10
+2020-07-18 11:57:24,378 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:57:24,386 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:57:24,392 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:57:24,407 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:57:24,411 - DEBUG - Fin de ejecución de 12
+2020-07-18 11:57:24,412 - DEBUG - Fin de ejecución de 14
+2020-07-18 11:57:24,416 - DEBUG - Fin de ejecución de 11
+2020-07-18 11:57:24,424 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:57:24,428 - DEBUG - Fin de ejecución de 15
+2020-07-18 11:57:24,435 - DEBUG - Fin de ejecución de 13
+2020-07-18 11:57:26,728 - DEBUG - Fin de ejecución de 17
+2020-07-18 11:57:26,734 - DEBUG - Fin de ejecución de 16
+2020-07-18 11:57:26,735 - DEBUG - Fin de ejecución de 19
+2020-07-18 11:57:26,741 - DEBUG - Fin de ejecución de 18
+2020-07-18 11:57:26,778 - INFO - Multi_proc - 20 iter, 16 procesos: 13.39s
+2020-07-18 11:57:27,205 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:57:27,214 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:57:27,229 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:57:27,241 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:57:27,246 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:57:27,253 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:57:27,268 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:57:27,273 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:57:27,276 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:57:27,277 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:57:27,281 - DEBUG - Comienzo de ejecución de 10
+2020-07-18 11:57:27,283 - DEBUG - Comienzo de ejecución de 11
+2020-07-18 11:57:27,283 - DEBUG - Comienzo de ejecución de 12
+2020-07-18 11:57:27,287 - DEBUG - Comienzo de ejecución de 13
+2020-07-18 11:57:27,287 - DEBUG - Comienzo de ejecución de 14
+2020-07-18 11:57:27,289 - DEBUG - Comienzo de ejecución de 15
+2020-07-18 11:57:27,294 - DEBUG - Comienzo de ejecución de 16
+2020-07-18 11:57:27,296 - DEBUG - Comienzo de ejecución de 17
+2020-07-18 11:57:27,309 - DEBUG - Comienzo de ejecución de 18
+2020-07-18 11:57:27,309 - DEBUG - Comienzo de ejecución de 19
+2020-07-18 11:57:41,227 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:57:41,275 - DEBUG - Fin de ejecución de 18
+2020-07-18 11:57:41,302 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:57:41,311 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:57:41,312 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:57:41,313 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:57:41,320 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:57:41,324 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:57:41,327 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:57:41,330 - DEBUG - Fin de ejecución de 19
+2020-07-18 11:57:41,334 - DEBUG - Fin de ejecución de 14
+2020-07-18 11:57:41,339 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:57:41,343 - DEBUG - Fin de ejecución de 11
+2020-07-18 11:57:41,343 - DEBUG - Fin de ejecución de 10
+2020-07-18 11:57:41,346 - DEBUG - Fin de ejecución de 15
+2020-07-18 11:57:41,348 - DEBUG - Fin de ejecución de 16
+2020-07-18 11:57:41,349 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:57:41,351 - DEBUG - Fin de ejecución de 12
+2020-07-18 11:57:41,354 - DEBUG - Fin de ejecución de 13
+2020-07-18 11:57:41,357 - DEBUG - Fin de ejecución de 17
+2020-07-18 11:57:41,406 - INFO - Multi_proc - 20 iter, 20 procesos: 14.63s
+2020-07-18 11:57:41,406 - DEBUG - Comienzo de ejecución de 0
+2020-07-18 11:57:41,425 - DEBUG - Comienzo de ejecución de 1
+2020-07-18 11:57:41,445 - DEBUG - Comienzo de ejecución de 2
+2020-07-18 11:57:41,474 - DEBUG - Comienzo de ejecución de 3
+2020-07-18 11:57:41,507 - DEBUG - Comienzo de ejecución de 4
+2020-07-18 11:57:41,531 - DEBUG - Comienzo de ejecución de 5
+2020-07-18 11:57:41,585 - DEBUG - Comienzo de ejecución de 6
+2020-07-18 11:57:41,645 - DEBUG - Comienzo de ejecución de 7
+2020-07-18 11:57:41,667 - DEBUG - Comienzo de ejecución de 8
+2020-07-18 11:57:41,750 - DEBUG - Comienzo de ejecución de 9
+2020-07-18 11:57:41,998 - DEBUG - Comienzo de ejecución de 10
+2020-07-18 11:57:42,066 - DEBUG - Comienzo de ejecución de 11
+2020-07-18 11:57:42,120 - DEBUG - Comienzo de ejecución de 12
+2020-07-18 11:57:42,205 - DEBUG - Comienzo de ejecución de 13
+2020-07-18 11:57:42,344 - DEBUG - Comienzo de ejecución de 14
+2020-07-18 11:57:42,587 - DEBUG - Comienzo de ejecución de 15
+2020-07-18 11:57:42,646 - DEBUG - Comienzo de ejecución de 16
+2020-07-18 11:57:42,833 - DEBUG - Comienzo de ejecución de 17
+2020-07-18 11:57:43,049 - DEBUG - Comienzo de ejecución de 18
+2020-07-18 11:57:43,237 - DEBUG - Comienzo de ejecución de 19
+2020-07-18 11:58:18,962 - DEBUG - Fin de ejecución de 1
+2020-07-18 11:58:20,650 - DEBUG - Fin de ejecución de 4
+2020-07-18 11:58:20,664 - DEBUG - Fin de ejecución de 2
+2020-07-18 11:58:21,295 - DEBUG - Fin de ejecución de 6
+2020-07-18 11:58:21,399 - DEBUG - Fin de ejecución de 5
+2020-07-18 11:58:21,431 - DEBUG - Fin de ejecución de 9
+2020-07-18 11:58:21,496 - DEBUG - Fin de ejecución de 15
+2020-07-18 11:58:21,591 - DEBUG - Fin de ejecución de 7
+2020-07-18 11:58:21,691 - DEBUG - Fin de ejecución de 11
+2020-07-18 11:58:21,812 - DEBUG - Fin de ejecución de 3
+2020-07-18 11:58:22,045 - DEBUG - Fin de ejecución de 18
+2020-07-18 11:58:22,263 - DEBUG - Fin de ejecución de 10
+2020-07-18 11:58:22,317 - DEBUG - Fin de ejecución de 16
+2020-07-18 11:58:22,312 - DEBUG - Fin de ejecución de 0
+2020-07-18 11:58:22,351 - DEBUG - Fin de ejecución de 14
+2020-07-18 11:58:22,389 - DEBUG - Fin de ejecución de 19
+2020-07-18 11:58:22,415 - DEBUG - Fin de ejecución de 8
+2020-07-18 11:58:22,531 - DEBUG - Fin de ejecución de 13
+2020-07-18 11:58:22,615 - DEBUG - Fin de ejecución de 17
+2020-07-18 11:58:22,636 - DEBUG - Fin de ejecución de 12
+2020-07-18 11:58:22,637 - INFO - Threading - 20 iter: 41.23s
+2020-07-18 11:58:22,637 - DEBUG - Comienzo de ejecución de 0 async
+2020-07-18 11:58:24,684 - DEBUG - Fin de ejecución de 0 async
+2020-07-18 11:58:24,684 - DEBUG - Comienzo de ejecución de 1 async
+2020-07-18 11:58:26,735 - DEBUG - Fin de ejecución de 1 async
+2020-07-18 11:58:26,735 - DEBUG - Comienzo de ejecución de 2 async
+2020-07-18 11:58:28,773 - DEBUG - Fin de ejecución de 2 async
+2020-07-18 11:58:28,773 - DEBUG - Comienzo de ejecución de 3 async
+2020-07-18 11:58:30,811 - DEBUG - Fin de ejecución de 3 async
+2020-07-18 11:58:30,811 - DEBUG - Comienzo de ejecución de 4 async
+2020-07-18 11:58:32,860 - DEBUG - Fin de ejecución de 4 async
+2020-07-18 11:58:32,861 - DEBUG - Comienzo de ejecución de 5 async
+2020-07-18 11:58:34,911 - DEBUG - Fin de ejecución de 5 async
+2020-07-18 11:58:34,911 - DEBUG - Comienzo de ejecución de 6 async
+2020-07-18 11:58:36,943 - DEBUG - Fin de ejecución de 6 async
+2020-07-18 11:58:36,943 - DEBUG - Comienzo de ejecución de 7 async
+2020-07-18 11:58:38,979 - DEBUG - Fin de ejecución de 7 async
+2020-07-18 11:58:38,979 - DEBUG - Comienzo de ejecución de 8 async
+2020-07-18 11:58:41,015 - DEBUG - Fin de ejecución de 8 async
+2020-07-18 11:58:41,015 - DEBUG - Comienzo de ejecución de 9 async
+2020-07-18 11:58:43,055 - DEBUG - Fin de ejecución de 9 async
+2020-07-18 11:58:43,055 - DEBUG - Comienzo de ejecución de 10 async
+2020-07-18 11:58:45,081 - DEBUG - Fin de ejecución de 10 async
+2020-07-18 11:58:45,081 - DEBUG - Comienzo de ejecución de 11 async
+2020-07-18 11:58:47,115 - DEBUG - Fin de ejecución de 11 async
+2020-07-18 11:58:47,115 - DEBUG - Comienzo de ejecución de 12 async
+2020-07-18 11:58:49,150 - DEBUG - Fin de ejecución de 12 async
+2020-07-18 11:58:49,150 - DEBUG - Comienzo de ejecución de 13 async
+2020-07-18 11:58:51,180 - DEBUG - Fin de ejecución de 13 async
+2020-07-18 11:58:51,180 - DEBUG - Comienzo de ejecución de 14 async
+2020-07-18 11:58:53,218 - DEBUG - Fin de ejecución de 14 async
+2020-07-18 11:58:53,219 - DEBUG - Comienzo de ejecución de 15 async
+2020-07-18 11:58:55,268 - DEBUG - Fin de ejecución de 15 async
+2020-07-18 11:58:55,268 - DEBUG - Comienzo de ejecución de 16 async
+2020-07-18 11:58:57,407 - DEBUG - Fin de ejecución de 16 async
+2020-07-18 11:58:57,408 - DEBUG - Comienzo de ejecución de 17 async
+2020-07-18 11:58:59,572 - DEBUG - Fin de ejecución de 17 async
+2020-07-18 11:58:59,572 - DEBUG - Comienzo de ejecución de 18 async
+2020-07-18 11:59:01,642 - DEBUG - Fin de ejecución de 18 async
+2020-07-18 11:59:01,642 - DEBUG - Comienzo de ejecución de 19 async
+2020-07-18 11:59:03,698 - DEBUG - Fin de ejecución de 19 async
+2020-07-18 11:59:03,700 - INFO - Asyncio - 20 iter: 41.06s
+
+Process finished with exit code 0
