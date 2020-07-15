@@ -1,0 +1,67 @@
+python threading_vs_asyncio_espera_activa.py
+2020-07-18 16:34:13,782 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:13,883 - INFO - Ejecución usando 1000 hilos esperando 0.001s: 0.1013 segundos
+2020-07-18 16:34:13,883 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:13,909 - INFO - Ejecución usando 1000 asyncio esperando 0.001s: 0.02556 segundos
+2020-07-18 16:34:13,909 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:14,101 - INFO - Ejecución usando 2000 hilos esperando 0.001s: 0.1923 segundos
+2020-07-18 16:34:14,101 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:14,153 - INFO - Ejecución usando 2000 asyncio esperando 0.001s: 0.05182 segundos
+2020-07-18 16:34:14,153 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:14,250 - INFO - Ejecución usando 1000 hilos esperando 0.005s: 0.09705 segundos
+2020-07-18 16:34:14,250 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:14,275 - INFO - Ejecución usando 1000 asyncio esperando 0.005s: 0.02414 segundos
+2020-07-18 16:34:14,275 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:14,502 - INFO - Ejecución usando 2000 hilos esperando 0.005s: 0.2268 segundos
+2020-07-18 16:34:14,502 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:14,554 - INFO - Ejecución usando 2000 asyncio esperando 0.005s: 0.05266 segundos
+2020-07-18 16:34:14,554 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:14,654 - INFO - Ejecución usando 1000 hilos esperando 0.01s: 0.09993 segundos
+2020-07-18 16:34:14,655 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:14,683 - INFO - Ejecución usando 1000 asyncio esperando 0.01s: 0.02805 segundos
+2020-07-18 16:34:14,683 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:14,881 - INFO - Ejecución usando 2000 hilos esperando 0.01s: 0.1979 segundos
+2020-07-18 16:34:14,881 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:14,933 - INFO - Ejecución usando 2000 asyncio esperando 0.01s: 0.05274 segundos
+2020-07-18 16:34:14,934 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:15,083 - INFO - Ejecución usando 1000 hilos esperando 0.05s: 0.1496 segundos
+2020-07-18 16:34:15,083 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:15,157 - INFO - Ejecución usando 1000 asyncio esperando 0.05s: 0.074 segundos
+2020-07-18 16:34:15,157 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:15,411 - INFO - Ejecución usando 2000 hilos esperando 0.05s: 0.2539 segundos
+2020-07-18 16:34:15,411 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:15,500 - INFO - Ejecución usando 2000 asyncio esperando 0.05s: 0.08887 segundos
+2020-07-18 16:34:15,500 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:15,699 - INFO - Ejecución usando 1000 hilos esperando 0.1s: 0.1987 segundos
+2020-07-18 16:34:15,699 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:15,823 - INFO - Ejecución usando 1000 asyncio esperando 0.1s: 0.1232 segundos
+2020-07-18 16:34:15,823 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:16,162 - INFO - Ejecución usando 2000 hilos esperando 0.1s: 0.3391 segundos
+2020-07-18 16:34:16,162 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:16,305 - INFO - Ejecución usando 2000 asyncio esperando 0.1s: 0.1427 segundos
+2020-07-18 16:34:16,305 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:16,907 - INFO - Ejecución usando 1000 hilos esperando 0.5s: 0.6023 segundos
+2020-07-18 16:34:16,907 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:17,430 - INFO - Ejecución usando 1000 asyncio esperando 0.5s: 0.5225 segundos
+2020-07-18 16:34:17,430 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:18,224 - INFO - Ejecución usando 2000 hilos esperando 0.5s: 0.7947 segundos
+2020-07-18 16:34:18,225 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:18,758 - INFO - Ejecución usando 2000 asyncio esperando 0.5s: 0.5333 segundos
+2020-07-18 16:34:18,758 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:19,849 - INFO - Ejecución usando 1000 hilos esperando 1s: 1.091 segundos
+2020-07-18 16:34:19,849 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:20,872 - INFO - Ejecución usando 1000 asyncio esperando 1s: 1.022 segundos
+2020-07-18 16:34:20,872 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:22,145 - INFO - Ejecución usando 2000 hilos esperando 1s: 1.273 segundos
+2020-07-18 16:34:22,145 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:23,183 - INFO - Ejecución usando 2000 asyncio esperando 1s: 1.038 segundos
+2020-07-18 16:34:23,183 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:28,272 - INFO - Ejecución usando 1000 hilos esperando 5s: 5.089 segundos
+2020-07-18 16:34:28,272 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:33,294 - INFO - Ejecución usando 1000 asyncio esperando 5s: 5.022 segundos
+2020-07-18 16:34:33,294 - INFO - Comienzo de ejecución hilos
+2020-07-18 16:34:38,567 - INFO - Ejecución usando 2000 hilos esperando 5s: 5.272 segundos
+2020-07-18 16:34:38,567 - INFO - Comienzo de ejecución asyncio
+2020-07-18 16:34:43,603 - INFO - Ejecución usando 2000 asyncio esperando 5s: 5.036 segundos
+
+Process finished with exit code 0
