@@ -1,0 +1,50 @@
+[
+{
+  "model": "blog_app.category",
+  "pk": 1,
+  "fields": {
+    "short_name": "Animales",
+    "description": "Art\u00edculos relacionados con la maravillosa fauna del planeta."
+  }
+},
+{
+  "model": "blog_app.category",
+  "pk": 2,
+  "fields": {
+    "short_name": "Juegos",
+    "description": "Noticias y art\u00edculos relacionados con los mejores juegos para entretener a grandes y peque\u00f1os."
+  }
+},
+{
+  "model": "blog_app.category",
+  "pk": 3,
+  "fields": {
+    "short_name": "Ciencia",
+    "description": "Los art\u00edculos cient\u00edficos m\u00e1s interesantes."
+  }
+},
+{
+  "model": "blog_app.category",
+  "pk": 4,
+  "fields": {
+    "short_name": "Tecnolog\u00eda",
+    "description": "Articulos y noticias de las ultimas tendencias tecnol\u00f3gicas."
+  }
+},
+{
+  "model": "blog_app.category",
+  "pk": 5,
+  "fields": {
+    "short_name": "Deporte",
+    "description": "Articulos y noticias relacionadas con los deportes m\u00e1s aventureros."
+  }
+},
+{
+  "model": "blog_app.category",
+  "pk": 6,
+  "fields": {
+    "short_name": "Software",
+    "description": "Programas interesantes o actualizaciones de magenificas aplicaciones."
+  }
+}
+]

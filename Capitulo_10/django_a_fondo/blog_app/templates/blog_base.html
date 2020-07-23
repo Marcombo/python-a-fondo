@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block nav %}
+    <li class="nav-item text-black">
+        <a class="nav-link text-black font-weight-bold" href="{% url 'posts_list' %}">Posts</a>
+    </li>
+    <li class="nav-item text-black">
+        <a class="nav-link text-black font-weight-bold" href="{% url 'category_main' %}">Categories</a>
+    </li>
+{% endblock %}

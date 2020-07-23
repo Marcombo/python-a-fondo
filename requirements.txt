@@ -1,0 +1,14 @@
+sqlalchemy
+tablib
+peewee
+django
+pymemcache
+walrus
+records[pandas]==0.5.2
+requests
+aiosmtpd
+paramiko
+django
+aiohttp
+tabview
+matplotlib
