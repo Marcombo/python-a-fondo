@@ -12,3 +12,5 @@ django
 aiohttp
 tabview
 matplotlib
+pytest
+coverage
