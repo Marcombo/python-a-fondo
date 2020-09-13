@@ -39,15 +39,15 @@ class IteradorPersonalizado:
 class IteradorFibonacci:
     def __init__(self):
         self.idx = 2
-        self.v_previo = 0  # primer valor
-        self.v_actual = 1  # segundo valor
+        self.v_previo = 0  # Primer valor
+        self.v_actual = 1  # Segundo valor
 
     def __iter__(self):
         return self
 
     def __next__(self):
         self.idx += 1
-        v_previo = self.v_previo  # guardando el valor previo temporalmente
+        v_previo = self.v_previo  # Guardado el valor previo temporalmente
         self.v_previo = self.v_actual
         self.v_actual = self.v_actual + v_previo
         return self.idx, self.v_actual

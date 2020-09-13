@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import math
 
 
@@ -10,7 +9,7 @@ def calcular_raiz_cuadrada(num):
     return math.sqrt(num)
 
 
-def función_principal(longitud):
+def funcion_principal(longitud):
     hola_mundo()
     print([x * 2 for x in range(longitud)])
     while True:
@@ -20,4 +19,4 @@ def función_principal(longitud):
 
 
 if __name__ == '__main__':
-    función_principal(10)
+    funcion_principal(10)

@@ -1,31 +1,31 @@
-# Avoiding the use of extra spaces
-# Yes:
+# Evitando el uso de espacios extra
+# Bien:
 spam(ham[1], {eggs: 2})
-# No:
+# Mal:
 spam( ham[ 1 ], { eggs: 2 } )
 
-# Yes:
+# Bien:
 if x == 4: print x, y; x, y = y, x
-# No:
+# Mal:
 if x == 4 : print x , y ; x , y = y , x
 
 
-# Yes:
+# Bien:
 spam(1)
-# No:
+# Mal:
 spam (1)
 
-# Yes:
+# Bien:
 dct['key'] = lst[index]
-# No:
+# Mal:
 dct ['key'] = lst [index]
 
-# Yes:
+# Bien:
 x = 1
 y = 2
-long_variable = 3
+variable_larga = 3
 
-# No:
-x             = 1
-y             = 2
-long_variable = 3
+# Mal:
+x              = 1
+y              = 2
+variable_larga = 3
