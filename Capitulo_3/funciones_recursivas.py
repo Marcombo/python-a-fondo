@@ -1,9 +1,9 @@
-def contar_recursivamente(elem, accumulador=0):
+def contar_recursivamente(elem, acumulador=0):
     if elem == 0:
-        return accumulador  # caso base
+        return acumulador  # caso base
     else:
-        accumulador += elem
-        return contar_recursivamente(elem - 1, accumulador)  # llamada recursiva
+        acumulador += elem
+        return contar_recursivamente(elem - 1, acumulador)  # llamada recursiva
 
 
 def simple_func(elem1, elem2=None):
