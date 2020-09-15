@@ -31,72 +31,37 @@ def fibo_recursivo(n):
 
 def merge_sort(lst):
     if len(lst) > 1:
-        centro = len(lst) // 2  # índice de la posicion central
-        izq = lst[:centro]  # lista temporal izquierda
-        der = lst[centro:]  # lista temporal derecha
+        centro = len(lst) // 2  # Indice de la posicion central
+        mitad_izq = lst[:centro]  # Lista temporal izquierda
+        mitad_der = lst[centro:]  # Lista temporal derecha
 
-        merge_sort(izq)  # ordena recursivamente parte izquierda
-        merge_sort(der)  # ordena recursivamente parte derecha
+        merge_sort(mitad_izq)  # Ordena recursivamente parte izquierda
+        merge_sort(mitad_der)  # Ordena recursivamente parte derecha
 
-        i = 0  # índice de la lista izquierda
-        d = 0  # índice de la lista derecha
-        x = 0  # índice de la lista original
+        i = 0  # Indice de la lista izquierda
+        d = 0  # Indice de la lista derecha
+        x = 0  # Indice de la lista original
 
-        # actualizando la lista original usando los menores
+        # Actualizando la lista original usando los menores
         # valores de cada lista temporal
-        while i < len(izq) and d < len(der):
-            if izq[i] < der[d]:
-                lst[x] = izq[i]
+        while i < len(mitad_izq) and d < len(mitad_der):
+            if mitad_izq[i] < mitad_der[d]:
+                lst[x] = mitad_izq[i]
                 i += 1
             else:
-                lst[x] = der[d]
+                lst[x] = mitad_der[d]
                 d += 1
             x += 1
 
-        # si quedan elementos en izq o der se añaden a la
+        # Si quedan elementos en izq o der se añaden a la
         # lista original
-        while i < len(izq):
-            lst[x] = izq[i]
+        while i < len(mitad_izq):
+            lst[x] = mitad_izq[i]
             i += 1
             x += 1
 
-        while d < len(der):
-            lst[x] = der[d]
-            d += 1
-            x += 1
-
-
-def merge_sort(lst):
-    if len(lst) > 1:
-        centro = len(lst) // 2  # índice de la posicion central
-        izq = lst[:centro]  # lista temporal izquierda
-        der = lst[centro:]  # lista temporal derecha
-        merge_sort(izq)  # ordena recursivamente parte izquierda
-        merge_sort(der)  # ordena recursivamente parte derecha
-
-        i = 0  # índice de la lista izquierda
-        d = 0  # índice de la lista derecha
-        x = 0  # índice de la lista original
-
-        # actualizando la lista original usando los menores
-        # valores de cada lista temporal
-        while i < len(izq) and d < len(der):
-            if izq[i] < der[d]:
-                lst[x] = izq[i]
-                i += 1
-            else:
-                lst[x] = der[d]
-                d += 1
-            x += 1
-
-        # si quedan elementos en izq o der se añaden a la
-        # lista original
-        while i < len(izq):
-            lst[x] = izq[i]
-            i += 1
-            x += 1
-        while d < len(der):
-            lst[x] = der[d]
+        while d < len(mitad_der):
+            lst[x] = mitad_der[d]
             d += 1
             x += 1
 
@@ -105,3 +70,8 @@ if __name__ == '__main__':
     lista_listas = [1, [2, 3, 4, 5], [1, [23, [34]], [62]]]
     lista_plana = aplanador(lista_listas)
     print(lista_plana)
+
+    lista = [3, 6, 3, 1, 2, 4, 3]
+    print(f'Lista inicial: {lista}')
+    merge_sort(lista)
+    print(f'Lista ordenada: {lista}')
