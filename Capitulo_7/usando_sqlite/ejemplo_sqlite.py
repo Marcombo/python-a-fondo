@@ -110,6 +110,14 @@ if __name__ == '__main__':
     info = '\n'.join(f'{r[0]}->{r[1]}' for r in rows)
     print(f"Autores y likes:\n{info}")
 
+    conn = sqlite3.connect('ejemplo_sqlite.db')
+    conn.row_factory = sqlite3.Row
+    cur = conn.cursor()
+    cur.execute("SELECT * from usuarios")
+    primer_usuario = cur.fetchone()
+    print(f'{primer_usuario.keys()}')
+    print(f"{primer_usuario['nombre']} {primer_usuario['apellido']}")
+
     con.create_aggregate("acc_simple", 1, AccSimple)
     cur = con.cursor()
     cur.execute('select acc_simple(likes) from posts')

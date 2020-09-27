@@ -51,7 +51,7 @@ def insertar_datos(db):
 
     db.posts.insert(autor_id=1, texto='Mi primera entrada', fecha=datetime.datetime(2020, 10, 28), likes=4)
     db.posts.insert(autor_id=1, texto='Mi segunda entrada', fecha=datetime.datetime(2020, 11, 9), likes=1)
-    db.posts.insert(autor_id=2, texto='¿Como hacer ejercicio?', fecha=datetime.datetime(2020, 9, 8), likes=40)
+    db.posts.insert(autor_id=2, texto='¿Cómo hacer ejercicio?', fecha=datetime.datetime(2020, 9, 8), likes=40)
     db.posts.insert(autor_id=2, texto='Dietas saludables', fecha=datetime.datetime(2020, 7, 19), likes=15)
     db.commit()
 
