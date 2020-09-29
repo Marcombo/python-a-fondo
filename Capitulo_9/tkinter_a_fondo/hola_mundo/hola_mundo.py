@@ -4,7 +4,7 @@ import random
 
 class HolaMundoApp(tk.Frame):
     textos = ['Hola amigos', 'Primera app usando tkinter',
-              'Python a fondo', 'Los gatos maullan',
+              'Python a fondo', 'Los gatos maúllan',
               'Los perros ladran', 'Los niños juegan']
 
     def __init__(self, master=None):

@@ -10,7 +10,7 @@ def cambia_texto(label_wt, textos):
 
 if __name__ == '__main__':
     textos = ['Hola amigos', 'Primera app en tkinter',
-              'Python a fondo', 'Los gatos maullan',
+              'Python a fondo', 'Los gatos maúllan',
               'Los perros ladran', 'Los niños juegan']
 
     raiz = tk.Tk()
