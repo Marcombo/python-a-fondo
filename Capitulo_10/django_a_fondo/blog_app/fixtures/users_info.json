@@ -401,7 +401,7 @@
     "is_superuser": false,
     "username": "ana",
     "first_name": "Ana",
-    "last_name": "S\\u00e1nchez",
+    "last_name": "S\u00e1nchez",
     "email": "asanchez@djangoafondo.com",
     "is_staff": true,
     "is_active": true,
