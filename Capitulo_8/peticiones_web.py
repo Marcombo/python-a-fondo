@@ -67,6 +67,8 @@ async def ejecucion_asyncio(n_webs):
 
 
 if __name__ == '__main__':
+    logger.info('Comienzo de ejecución para hacer peticiones web')
+
     for n_webs in [20, 100, 200]:
         logger.info(f'----- Tiempos de ejecución de peticiones a {n_webs} webs usando {URL_A_USAR}  -----')
         for n_sec in [1, n_webs]:

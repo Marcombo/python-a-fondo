@@ -84,12 +84,6 @@ async def ejecucion_asyncio(iteraciones, n_primos):
 if __name__ == '__main__':
     numeros_primos = 2500
 
-    iteraciones = 4
-    start = time.time()
-    ejecucion_en_hilos(iteraciones, numeros_primos)
-    logger.info(f'Threading - {iteraciones} iter: {time.time() - start:.4}s')
-
-    exit()
     for iteraciones in [1, 4, 10, 20]:
         start = time.time()
         ejecucion_secuencial(iteraciones, numeros_primos)
