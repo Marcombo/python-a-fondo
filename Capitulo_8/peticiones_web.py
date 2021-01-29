@@ -43,7 +43,7 @@ def ejecucion_secuencial(n_webs):
 def ejecucion_multiproceso(n_procesos, n_webs):
     p = Pool(n_procesos)
     p.map(peticion_web, range(n_webs))
-    p.terminate()
+    p.close()
     p.join()
 
 

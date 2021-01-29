@@ -58,7 +58,7 @@ def ejecucion_multiproceso(iteraciones, n_procesos, n_primos):
     p = Pool(n_procesos)
     params = [(n_primos, i) for i in range(iteraciones)]
     p.starmap(contar_primos, params)
-    p.terminate()
+    p.close()
     p.join()
 
 
